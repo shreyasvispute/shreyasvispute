@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyasvispute
-- 👀 I’m interested in machine learning, software development, gaming
+- 👀 I’m interested in machine learning, web application development
 - 🌱 I’m currently learning web programming, machine learning  
 - 💞️ I’m looking to collaborate on machine learning, web programming projects
 - 📫 How to reach me: svispute@stevens.edu
